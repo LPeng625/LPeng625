@@ -1,7 +1,7 @@
 <!-- <p align="center"><img src="assets/whiteflower.jpg"/></p> -->
 <!-- <p align="center"><img src="assets/violin1.jpg"/> -->
 
-## Hi there, I'm [Peng Liu](https://github.com/LPeng625) 👋
+## Hello there, I'm [Peng Liu](https://github.com/LPeng625) 👋
 ![Profile views](https://komarev.com/ghpvc/?username=LPeng625&color=brightgreen)
 
 
