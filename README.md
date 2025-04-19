@@ -92,7 +92,7 @@
   <a href="https://github.com/LPeng625/BiReNet">
     <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LPeng625&repo=BiReNet&theme=nightowl" />
   </a>
-
+</p>
 
 <p>
 <img width="32%" align="left" src="https://github-readme-stats.vercel.app/api?username=LPeng625&show_icons=true&locale=en&theme=gruvbox" alt="LPeng's github stats" />
