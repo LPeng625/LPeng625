@@ -100,12 +100,6 @@
 &nbsp;<img width="31%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=LPeng625&theme=gruvbox" alt="LPeng" />
 </p>
 
-
-
-<!--<p align = "left">
- <img src="https://activity-graph.herokuapp.com/graph?username=LPeng625&theme=chartreuse-dark">
-</p>-->
-
 ---
 
 
