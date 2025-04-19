@@ -61,7 +61,7 @@
     	<p>
 		<font class="font_nyw_paper_name"><b><a href="https://github.com/LPeng625">Peng Liu, Yurong Qian, Hongyang Wei, Yugang Qin & Yingying Fan</a></b></font><br />
 		<font class="font_nyw_paper_title">BiReNet: Bilateral Network with Feature Aggregation and Edge Detection for Remote Sensing Images Road Extraction</font><br />
-		<font class="font_nyw_paper_description">Pattern Recognition and Computer Vision. PRCV 2024.</font> <font class="font_nyw_paper_ALei"></font><br />
+		<font class="font_nyw_paper_description">Pattern Recognition and Computer Vision. PRCV 2024</font> <font class="font_nyw_paper_ALei"></font><br />
 		<a href="https://link.springer.com/chapter/10.1007/978-981-97-8493-6_28">[Paper]</a> <a href="https://github.com/LPeng625/BiReNet">[Code]</a>
      	</p>
    </li>
