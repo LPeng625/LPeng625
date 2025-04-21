@@ -38,7 +38,7 @@
 <ul style="padding-left:12px;">
     <li>
     	<p>
-		<font class="font_nyw_paper_name"><b><a href="https://github.com/LPeng625">Boqi Li, Xin Gao, Peng Liu, Yiguo Lu, Xingang Wu & Xinyu Zhang</a></b></font><br />
+		<font class="font_nyw_paper_name"><b><a href="https://github.com/LPeng625">Boqi Li#, Peng Liu#, Xin Gao, Yiguo Lu, Xingang Wu & Xinyu Zhang</a></b></font><br />
 		<font class="font_nyw_paper_title">End-to-end Trajectory Prediction based on Driving Behavior Interpretation</font><br />
      	</p>
    </li>
