@@ -81,7 +81,7 @@
 <code><img height="20" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"></code> -->
 
----
+
 
 ### Activity analysis
 
