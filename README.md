@@ -10,7 +10,7 @@
   
 ### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2hod2dwamRndmhrMjJyOTljc3NwNmFlcmlqOXRwaHhwajViNmVjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NjABnBOieYQE4BpkP/giphy.gif" width="50"> A little more about me...  
 
-- Ph.D. candidate at [**SCUT** ](https://www.scut.edu.cn/) (2025.09-)
+- Ph.D. student at [**SCUT** ](https://www.scut.edu.cn/) (2025.09-)
 - Worked as an **intern** in [**Tsinghua Lion Team** ](https://www.svm.tsinghua.edu.cn/) (2023.01-)
 - Earned a Master of Engineering (M.E.) degree from [**Xinjiang University** ](https://www.xju.edu.cn/)  (2022.09-2025.06)
 - 💬 Talk with me about anything [liupengxju@163.com](mailto:liupengxju@163.com)
