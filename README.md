@@ -50,7 +50,7 @@
     	<p>
 		<font class="font_nyw_paper_name"><b><a href="https://github.com/LPeng625">Peng Liu, Xin Gao, Chaojun Shi, Yiguo Lu, Lu Bai, Yingying Fan, Yalong Xing & Yurong Qian</a></b></font><br />
 		<font class="font_nyw_paper_title">CGCNet: Road Extraction from Remote Sensing Image with Compact Global Context-aware</font><br />
-		<font class="font_nyw_paper_description">IEEE Transactions on Geoscience and Remote Sensing. TGRS(CCF-B/CAS Tier 1​​ TOP/One of the three top journals in the field of remote sensing) 2025</font> <font class="font_nyw_paper_ALei"></font><br />
+		<font class="font_nyw_paper_description">IEEE Transactions on Geoscience and Remote Sensing. TGRS(One of the three top journals in the field of remote sensing) 2025</font> <font class="font_nyw_paper_ALei"></font><br />
 		<a href="https://ieeexplore.ieee.org/abstract/document/11097289">[Paper]</a> <a href="https://github.com/LPeng625/CGCNet">[Code]</a>
      	</p>
    </li>
