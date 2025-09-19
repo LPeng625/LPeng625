@@ -98,7 +98,6 @@
 <p>
 <img width="32%" align="left" src="https://github-readme-stats.vercel.app/api?username=LPeng625&show_icons=true&locale=en&theme=gruvbox" alt="LPeng's github stats" />
 &nbsp;<img width="26%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LPeng625&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="LPeng" />
-&nbsp;<img width="31%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=LPeng625&theme=gruvbox" alt="LPeng" />
 </p>
 
 <!-- ### Reference
