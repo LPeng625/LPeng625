@@ -13,7 +13,7 @@
 - Ph.D. student at [**SCUT** ](https://www.scut.edu.cn/) (2025.09-)
 - Worked as an **intern** in [**Tsinghua Lion Team** ](https://www.svm.tsinghua.edu.cn/) (2023.01-)
 <!--- Earned a Master of Engineering (M.E.) degree from [**Xinjiang University** ](https://www.xju.edu.cn/)  (2022.09-2025.06) -->
-- 💬 Talk with me about anything [liupengxju@163.com](mailto:pen_lee@163.com)
+- 💬 Talk with me about anything [pen_lee@163.com](mailto:pen_lee@163.com)
 
 <!-- ### Motto
 
