@@ -29,6 +29,7 @@
     <li>
     	<p>
 		<font class="font_nyw_paper_name"><b><a href="https://github.com/LPeng625">Xin Gao#, Peng Liu#, Ying Liu, Yugang Qin, Yan Gong, Xinyu Zhang & Jianqiang Wang</a></b></font><br />
+		<font class="font_nyw_paper_description">IET Intelligent Transport Systems</font> <font class="font_nyw_paper_ALei"></font><br />
 		<font class="font_nyw_paper_title">Exploiting Image Enhancement and Edge Detection for Low-light Sea Ports Road Segmentation</font><br />
      	</p>
    </li>
