@@ -69,8 +69,6 @@
    </li>
 </ul>
 
----
-
 <!-- ### Languages and Tools
 
  <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
