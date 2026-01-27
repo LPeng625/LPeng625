@@ -24,17 +24,6 @@
 
 ### Papers
 
-#### 2025
-<ul style="padding-left:12px;">
-    <li>
-    	<p>
-		<font class="font_nyw_paper_name"><b><a href="https://github.com/LPeng625">Xin Gao#, Peng Liu#, Ying Liu, Yugang Qin, Yan Gong, Xinyu Zhang & Jianqiang Wang</a></b></font><br />
-		<font class="font_nyw_paper_title">Exploiting Image Enhancement and Edge Detection for Low-light Sea Ports Road Segmentation</font><br />
-		<font class="font_nyw_paper_description">IET Intelligent Transport Systems 2025</font> <font class="font_nyw_paper_ALei"></font><br />
-		<a href="https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/itr2.70114">[Paper]</a>
-     	</p>
-   </li>
-</ul>
 
 #### 2025
 <ul style="padding-left:12px;">
