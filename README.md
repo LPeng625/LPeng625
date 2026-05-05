@@ -32,8 +32,8 @@
 		<font class="font_nyw_paper_name"><b><a href="https://github.com/LPeng625">Boqi Li#, Peng Liu#, Xin Gao, Yiguo Lu, Xingang Wu & Xinyu Zhang</a></b></font><br />
 		<font class="font_nyw_paper_title">IGTPT: Intent-caption Guided Trajectory Prediction Transformer</font><br />
 		<font class="font_nyw_paper_description">IEEE Transactions on Intelligent Transportation Systems. TITS 2026</font> <br />
-		<font size="2"># Equal Contribution</font>	
-		<font class="font_nyw_paper_ALei"></font><br />
+		<font size="2"># Equal Contribution</font><br />
+		<font size="2" style="color:#666;">This work was completed during Peng Liu's internship at Tsinghua University.</font>
      	</p>
    </li>
 </ul>
