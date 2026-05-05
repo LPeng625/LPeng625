@@ -33,7 +33,7 @@
 		<font class="font_nyw_paper_title">IGTPT: Intent-caption Guided Trajectory Prediction Transformer</font><br />
 		<font class="font_nyw_paper_description">IEEE Transactions on Intelligent Transportation Systems. TITS 2026</font> <br />
 		<font class="font_nyw_paper_ALei"></font>
-		<font size="2" style="color:#666; display:block; margin-top:2px;">This work was completed during an internship at Tsinghua University.</font> <br />
+		<font size="2" style="color:#666; display:block; margin-top:2px;">This work was completed during an internship at Tsinghua University</font> <br />
 		<font size="2"># Equal Contribution</font>	
      	</p>
    </li>
