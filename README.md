@@ -2,7 +2,6 @@
 <!-- <p align="center"><img src="assets/violin1.jpg"/> -->
 
 ## Hello there, I'm [Peng Liu](https://github.com/LPeng625) 👋
-![Profile views](https://komarev.com/ghpvc/?username=LPeng625&color=brightgreen)
 
 
 <!-- <img align="left" alt="Readme Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal" width='95%'/> -->
